@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.daemoncyber.dto.GameDTO;
-import com.daemoncyber.entities.Game;
 import com.daemoncyber.services.GameService;
 
 @RestController
